@@ -1,7 +1,7 @@
-# 深度学习7日入门-CV疫情特辑 课程总结
+# PaddlePaddle课程-- 深度学习7日入门-CV疫情特辑 总结
 
 [![license](https://img.shields.io/badge/License-MIT-blueviolet.svg?style=flat&logo=appveyor)](https://github.com/CbGeSky/Datathon2019/LICENSE)
-[![standard-readme compliant](https://img.shields.io/badge/AistudioCourse%20200411-public-brightgreen.svg?style=flat-square)](https://aistudio.baidu.com/aistudio/education/group/info/1149)
+[![standard-readme compliant](https://img.shields.io/badge/PaddlePaddleCourse-官网-brightgreen.svg?style=flat-square)](https://aistudio.baidu.com/aistudio/education/group/info/1149)
 
 > 深度学习7日入门-CV疫情特辑  
 > 学校：飞桨深度学习学院     
@@ -30,6 +30,18 @@
 - [Day6 模型压缩探索与实践*](#Day6%20模型压缩探索与实践)
 
 <img src="./.Materials/toc0.png" alt="课程大纲图" width="225" height="439" align="center" />
+
+## 资料传送门
+
+>资源集合啦(中文哦)
+
+* 飞浆 [PaddlePdaddle](https://www.paddlepaddle.org.cn/documentation/docs/zh/beginners_guide/index_cn.html)
+* 可视化大杀器 [Pyechart](https://pyecharts.org/#/zh-cn/chart_api)
+
+>模型应用大杀器
+
+* 迁移学习 [PaddleHub](https://www.paddlepaddle.org.cn/hub)
+* [PaddleSlim](https://paddlepaddle.github.io/PaddleSlim)
 
 ## 总结
 
